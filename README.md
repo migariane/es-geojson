@@ -1,4 +1,4 @@
-es-municipis
+Spanish Administrative Boundaries in GeoJSON
 ============
 
 This repository contains the municipal, provincial and regional level administrative boundaries of the Spanish State.

@@ -24,7 +24,4 @@ task :convert do
 	end 
 end
 
-desc "Task description"
-task :default => [:download, :unzip, :convert] do
-	
-end
+task :default => [:download, :unzip, :convert]
